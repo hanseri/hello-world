@@ -1,2 +1,4 @@
 # hello-world
-test
+
+
+Dette er en test i forbindelse med opplæring i github
